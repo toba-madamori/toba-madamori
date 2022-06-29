@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm a Backend Engineer
+ I'm a Backend Engineer(mainly working with Javascript at the moment), interested in building and learning to build scalable and well architectured software.
 
 
 ## 🌐 Socials:
