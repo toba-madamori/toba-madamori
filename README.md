@@ -18,4 +18,4 @@
 - 📫 You can [view my resume](#) and contact me by emailing mailtobajamezmadamori@gmail.com.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=toba-madamori&icon=0&color=0)](https://visitcount.itsvg.in)
+
