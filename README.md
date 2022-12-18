@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
- I'm a Backend Engineer(mainly working with Javascript at the moment), interested in building and learning to build scalable and well architectured software.
+ I'm a Backend Engineer, interested in building and learning to build scalable and well architectured software.
  At the moment I'm working on rolling out improved iterations of my previous projects and learning new stuff I haven't yet mastered.
 
 
