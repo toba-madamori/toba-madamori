@@ -13,8 +13,6 @@
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
-- 😊 I’m looking for help with open source projects
 - 📫 You can [view my resume](#) and contact me by emailing mailtobajamezmadamori@gmail.com.
 
 ---
